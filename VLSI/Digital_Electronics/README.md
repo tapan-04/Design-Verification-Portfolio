@@ -573,4 +573,3 @@ Octal ↔ Hex          → go through Binary
 N-bit unsigned       → 0 to 2^N - 1
 
 N-bit 2's complement → -2^(N-1) to 2^(N-1)-1
-```
