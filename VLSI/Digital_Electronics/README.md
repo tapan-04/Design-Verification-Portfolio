@@ -555,7 +555,7 @@ Examples:
 |   10 |                9's |           10's |
 |   16 |               15's |           16's |
 
----
+----
 
 # Quick Reference
 
