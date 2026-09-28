@@ -1,0 +1,17 @@
+# Number Systems & Codes
+
+## 1. Number Systems
+
+Digital systems commonly use:
+
+- Binary (Base 2)
+- Octal (Base 8)
+- Decimal (Base 10)
+- Hexadecimal (Base 16)
+
+### Binary
+Uses digits: 0, 1
+
+Example:
+```text
+1011₂ = 11₁₀
