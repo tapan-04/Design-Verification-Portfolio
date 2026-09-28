@@ -394,7 +394,7 @@ Actual Output               Expected Output
 - Hold time — required data stability after clock edge.
 - Synthesizable RTL — RTL that can be converted into hardware by synthesis.
 
----
+-----
 
 # Key Takeaways
 
