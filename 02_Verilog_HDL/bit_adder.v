@@ -1,8 +1,8 @@
 module bit_adder;
 
-    bit [3:0] a;
-    bit [3:0] b;
-    bit [4:0] result;
+    reg [3:0] a;
+    reg [3:0] b;
+    reg [4:0] result;
 
     initial begin
         a = 4'b0101;
