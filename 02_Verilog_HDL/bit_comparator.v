@@ -1,7 +1,7 @@
 module bit_comparator;
 
-    bit [3:0] a;
-    bit [3:0] b;
+    reg [3:0] a;
+    reg [3:0] b;
 
     initial begin
         a = 4'b1010;
