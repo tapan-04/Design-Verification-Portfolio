@@ -1,7 +1,7 @@
 module bit_parity;
 
-    bit [3:0] data;
-    bit parity;
+    reg [3:0] data;
+    reg parity;
 
     initial begin
         data = 4'b1011;
