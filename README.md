@@ -1,18 +1,18 @@
 # VLSI Design & Verification Portfolio
 
-Author: Tapan Damisetty  
-Contact: https://www.linkedin.com/in/damisettytapan/ | damisettytapan@gmail.com
+**Author:** Tapan Damisetty  
+**Contact:** [LinkedIn](https://www.linkedin.com/in/damisettytapan/) | damisettytapan@gmail.com
 
-About This Repository
+## About This Repository
 This repository serves as a structured portfolio of my journey into ASIC/SOC Design Verification. It documents my progression from foundational digital logic design to advanced SystemVerilog testbenches and UVM methodologies, with the ultimate goal of securing a role as a Design Verification Engineer.
 
-Technical Skills
-* Hardware Description Languages: Verilog, SystemVerilog
-* Verification Methodologies: UVM, Constrained Randomization, Functional Coverage, SystemVerilog Assertions (SVA)
-* Digital Design: FSMs, Combinational/Sequential Logic, Protocol Verification
-* EDA Tools: Cadence Virtuoso, EDA Playground
+## Technical Skills
+* **Hardware Description Languages:** Verilog, SystemVerilog
+* **Verification Methodologies:** UVM, Constrained Randomization, Functional Coverage, SystemVerilog Assertions (SVA)
+* **Digital Design:** FSMs, Combinational/Sequential Logic, Protocol Verification
+* **EDA Tools:** Cadence Virtuoso, EDA Playground
 
-Repository Structure
+## Repository Structure
 
 | Directory | Description |
 | :--- | :--- |
