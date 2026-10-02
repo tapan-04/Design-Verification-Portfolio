@@ -1,8 +1,8 @@
 module bit_shift_register;
 
-    bit clk;
-    bit reset;
-    bit [3:0] data;
+    reg clk;
+    reg reset;
+    reg [3:0] data;
 
     initial begin
         clk = 0;
