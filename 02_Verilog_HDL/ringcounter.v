@@ -10,5 +10,4 @@ always @(posedge clk or posedge reset) begin
     else
         q <= {q[2:0], q[3]};
 end
-
 endmodule
