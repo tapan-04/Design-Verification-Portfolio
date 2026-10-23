@@ -14,5 +14,4 @@ module bit_adder;
         $display("B      = %b", b);
         $display("Result = %b", result);
     end
-
 endmodule
