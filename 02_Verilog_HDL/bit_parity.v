@@ -11,5 +11,4 @@ module bit_parity;
         $display("Data   = %b", data);
         $display("Parity = %b", parity);
     end
-
 endmodule
