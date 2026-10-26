@@ -6,5 +6,4 @@ module barrel_shifter (
 );
 
 assign result = direction ? (data >> shift) : (data << shift);
-
 endmodule
