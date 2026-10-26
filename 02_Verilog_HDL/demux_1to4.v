@@ -14,5 +14,4 @@ always @(*) begin
         2'b11: y[3] = din;
     endcase
 end
-
 endmodule
