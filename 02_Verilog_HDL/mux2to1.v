@@ -6,5 +6,4 @@ module mux2to1 (
 );
 
 assign y = sel ? b : a;
-
 endmodule
